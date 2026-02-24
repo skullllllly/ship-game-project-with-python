@@ -7,12 +7,6 @@ Control your ship, shoot enemy ships, and survive as long as possible.
 
 ---
 
-
-
-![Game Screenshot](pic_game/لقطة الشاشة 2026-02-24 033520.png)
-
----
-
 ## Features
 
 - Player ship movement
